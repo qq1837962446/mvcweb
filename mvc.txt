@@ -1,0 +1,2 @@
+http://mvcwed.duapp.com/qiye/index.php?m=index  前台
+http://mvcwed.duapp.com/qiye/index.php  后台  账号admin  密码123456
